@@ -1,0 +1,12 @@
+対象リポジトリをクリック
+
+Settings をクリック
+
+Danger Zone にある Delete this repository をクリック
+
+確認のポップアップが出てくるので
+「Please type in the name of the repository to confirm.」
+にリポジトリ名を入力する
+（今回は mitasuke/Apache と入力する）
+
+I understand the consequences, delete this repository ボタンをクリック
